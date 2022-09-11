@@ -3,7 +3,8 @@
 <p align="center">
 <img title="Wiki img" src="images/picture/reqres.jpeg">
 </p>
-###  Содержание:
+
+## :page_with_curl: Содержание:
 
 - [Технологии и инструменты](#techno-технологии-и-инструменты)
 - [Запуск из терминала](#arrow_forward-запуск-из-терминала)
