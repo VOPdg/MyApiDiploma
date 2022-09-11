@@ -52,16 +52,16 @@ gradle clean test
 <a name="Allure-TestOPS"></a>
 ### <img width="4%" title="Allure TestOPS" src="images/logo/AllureTestOps.svg"> Интеграция с [Allure TestOps](https://allure.autotests.cloud/launch/14588)
 <p align="center">
-  <img src="images/screenshots/Screenshot 2022-09-11 at 14.20.54.png" alt="job" width="800">
+  <img src="images/screenshots/Screenshot 2022-09-11 at 14.20.54.png" alt="job">
 </p>
 
 <p align="center">
-  <img src="images/screenshots/Screenshot 2022-09-11 at 14.22.40.png" alt="job" width="800">
+  <img src="images/screenshots/Screenshot 2022-09-11 at 14.22.40.png" alt="job">
 </p>
 
 <a name="telegram-Уведомление-в-Telegram-при-помощи-бота"></a>
 ### <img width="6%" title="Jenkins" src="images/logo/Telegram.svg"> Отчет в Telegram
 
 <p align="center">
-  <img src="images/screenshots/Screenshot 2022-09-11 at 14.23.57.png" alt="job" width="600">
+  <img src="images/screenshots/Screenshot 2022-09-11 at 14.23.57.png" alt="job">
 </p>
