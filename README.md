@@ -29,18 +29,21 @@
 <img width="8%" title="Telegram" src="images/logo/Telegram.svg">
 </p>
 
+<a name="arrow_forward-запуск-из-терминала"></a>
 ## :keyboard: Запуск из терминала
 Локальный запуск:
 ```
 gradle clean test
 ```
+
+<a name="jenkins-Jenkins-job"></a>
 ## :robot: Сборки в Jenkins
 ### <a target="_blank" href="https://jenkins.autotests.cloud/job/qa_guru_Jenkinsjob_MyApiDiploma/">Параметризированная сборка в Jenkins со всеми тестами</a>
 <p align="center">
 <img title="Jenkins Job Run with parameters" src="images/screenshots/Screenshot 2022-09-11 at 14.15.04.png">
 </p>
 
-
+<a name="report-Allure-отчет"></a>
 ## :bar_chart: Allure отчет
 - ### Главный экран отчета
 <p align="center">
@@ -62,6 +65,7 @@ gradle clean test
   <img src="images/screenshots/Screenshot 2022-09-11 at 14.22.40.png" alt="job">
 </p>
 
+<a name="telegram-Уведомление-в-Telegram-при-помощи-бота"></a>
 ## :robot: Отчет в Telegram
 - ### Telegram notification message (all results)
 <p align="center">
