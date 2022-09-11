@@ -1,6 +1,8 @@
 #  Автоматизация тестирования API на сайте - reqres.in.
 > <a target="_blank" href="https://reqres.in/">Ссылка на страницу сайта</a>
-
+<p align="center">
+<img title="Wiki img" src="images/picture/reqres.jpeg">
+</p>
 ###  Содержание:
 
 - [Технологии и инструменты](#techno-технологии-и-инструменты)
