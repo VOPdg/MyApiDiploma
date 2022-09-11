@@ -14,7 +14,7 @@
 - [Отчет в Telegram](#telegram-Уведомление-в-Telegram-при-помощи-бота)
 
 <a name="techno-технологии-и-инструменты"></a>
-## Технологии и инструменты:
+## :computer: Технологии и инструменты
 
 <p align="center">
 <img width="8%" title="IntelliJ IDEA" src="images/logo/Intelij_IDEA.svg">
@@ -29,7 +29,7 @@
 <img width="8%" title="Telegram" src="images/logo/Telegram.svg">
 </p>
 
-## :arrow_forward: Запуск из терминала
+## :keyboard: Запуск из терминала
 Локальный запуск:
 ```
 gradle clean test
@@ -62,9 +62,8 @@ gradle clean test
   <img src="images/screenshots/Screenshot 2022-09-11 at 14.22.40.png" alt="job">
 </p>
 
-<a name="telegram-Уведомление-в-Telegram-при-помощи-бота"></a>
-### <img width="6%" title="Jenkins" src="images/logo/Telegram.svg"> Отчет в Telegram
-
+## :robot: Отчет в Telegram
+- ### Telegram notification message (all results)
 <p align="center">
   <img src="images/screenshots/Screenshot 2022-09-11 at 14.23.57.png" alt="job">
 </p>
