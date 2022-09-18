@@ -59,7 +59,6 @@ public class RegresTests {
         assertEquals("2", mainData.getData().getId());
         assertEquals("https://reqres.in/#support-heading", mainData.getSupport().getUrl());
         assertEquals("To keep ReqRes free, contributions towards server costs are appreciated!", mainData.getSupport().getText());
-
     }
 
     @Test
@@ -96,8 +95,6 @@ public class RegresTests {
                         .extract().as(UserData.class);
         assertEquals(rq.getName(), userData.getName());
         assertEquals(rq.getJob(), userData.getJob());
-
     }
-
 }
 

@@ -8,5 +8,4 @@ import lombok.Data;
 public class MainData {
     UserData data;
     SupportData support;
-
 }

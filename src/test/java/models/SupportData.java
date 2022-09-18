@@ -9,5 +9,4 @@ public class SupportData {
 
     private String url;
     private String text;
-    ;
 }
